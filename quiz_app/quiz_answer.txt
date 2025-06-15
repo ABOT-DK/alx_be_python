@@ -1,0 +1,69 @@
+Q1: What is the capital city of Kenya?
+Choice 1: Mombasa
+Choice 2: Kisumu
+Choice 3: Nairobi
+Choice 4: Nakuru
+Ans: 3
+
+Q2: What is the output of print(2 ** 3) in Python?
+Choice 1: 6
+Choice 2: 8
+Choice 3: 9
+Choice 4: 5
+Ans: 2
+
+Q3: Which data type is immutable in Python?
+Choice 1: List
+Choice 2: Dictionary
+Choice 3: Tuple
+Choice 4: Set
+Ans: 3
+
+Q4: What does "HTML" stand for?
+Choice 1: HighText Machine Language
+Choice 2: Hyper Transfer Markup Language
+Choice 3: HyperText Markup Language
+Choice 4: Hyperlink and Text Markup Language
+Ans: 3
+
+Q5: What year did Kenya gain independence?
+Choice 1: 1960
+Choice 2: 1964
+Choice 3: 1962
+Choice 4: 1963
+Ans: 4
+
+Q6: What keyword is used to create a function in Python?
+Choice 1: func
+Choice 2: define
+Choice 3: def
+Choice 4: function
+Ans: 3
+
+Q7: Who wrote Things Fall Apart?
+Choice 1: Ngũgĩ wa Thiong’o
+Choice 2: Wole Soyinka
+Choice 3: Chinua Achebe
+Choice 4: Chimamanda Adichie
+Ans: 3
+
+Q8: What is the chemical symbol for gold?
+Choice 1: Go
+Choice 2: Au
+Choice 3: Ag
+Choice 4: Au
+Ans: 4
+
+Q9: In computer science, what does "OOP" stand for?
+Choice 1: Only Object Processing
+Choice 2: Object-Oriented Programming
+Choice 3: Objective Operation Program
+Choice 4: Organized Object Procedures
+Ans: 2
+
+Q10: Which planet is closest to the Sun?
+Choice 1: Venus
+Choice 2: Mars
+Choice 3: Earth
+Choice 4: Mercury
+Ans: 4
