@@ -7,9 +7,9 @@ def perform_operation(num1, num2, operation):
         case "multiply":
             return num1*num2;
         case "divide":
-            if num2 != 0:
-                return num1/num2;
+            if num2 == 0:
+                return "Enter a non-zero number."
             else:
-                return "Enter a non-zero number.";
+                return num1/num2;;
         case _:
             return "Check and enter a valid input";
